@@ -1,0 +1,226 @@
+[
+  {
+    "donationId": "DON-1049",
+    "drugDetails": {
+      "brandName": "Glycomet 500mg",
+      "genericName": "Metformin Hydrochloride IP",
+      "manufacturer": "USV Ltd",
+      "batchNumber": "MF-4921",
+      "expiryDate": "2027-02-15",
+      "diseaseCategory": "Diabetes"
+    },
+    "inventory": {
+      "quantity": 60,
+      "unitType": "Tablets",
+      "estimatedRetailValueINR": 320
+    },
+    "condition": {
+      "packaging": "Blister Sealed",
+      "storageEnvironment": "Room Temperature",
+      "isSealIntact": true
+    },
+    "donor": {
+      "name": "Dr. R. K. Sharma",
+      "type": "Physician Sample",
+      "contact": "rk.sharma@example.com"
+    },
+    "lifecycle": {
+      "status": "Pending_Verification",
+      "submissionDate": "2023-10-24T10:30:00Z",
+      "verifiedBy": null,
+      "verificationNotes": null
+    }
+  },
+  {
+    "donationId": "DON-1050",
+    "drugDetails": {
+      "brandName": "Augmentin 625 Duo",
+      "genericName": "Amoxicillin and Potassium Clavulanate",
+      "manufacturer": "GSK Pharmaceuticals",
+      "batchNumber": "AUG-9821B",
+      "expiryDate": "2026-11-20",
+      "diseaseCategory": "Antibiotic"
+    },
+    "inventory": {
+      "quantity": 15,
+      "unitType": "Tablets",
+      "estimatedRetailValueINR": 450
+    },
+    "condition": {
+      "packaging": "Intact Strip",
+      "storageEnvironment": "Cool/Dry",
+      "isSealIntact": true
+    },
+    "donor": {
+      "name": "Priya V.",
+      "type": "Recovered Patient",
+      "contact": "priya.v@example.com"
+    },
+    "lifecycle": {
+      "status": "Verified_Active",
+      "submissionDate": "2023-10-20T14:15:00Z",
+      "verifiedBy": "Pharm_Admin_01",
+      "verificationNotes": "Strips intact, stored in optimal conditions. Approved for distribution."
+    }
+  },
+  {
+    "donationId": "DON-1051",
+    "drugDetails": {
+      "brandName": "Telma 40",
+      "genericName": "Telmisartan Tablets IP",
+      "manufacturer": "Glenmark",
+      "batchNumber": "TEL-3011",
+      "expiryDate": "2027-08-30",
+      "diseaseCategory": "Hypertension"
+    },
+    "inventory": {
+      "quantity": 90,
+      "unitType": "Tablets",
+      "estimatedRetailValueINR": 540
+    },
+    "condition": {
+      "packaging": "Box Sealed",
+      "storageEnvironment": "Room Temperature",
+      "isSealIntact": true
+    },
+    "donor": {
+      "name": "Amitabh Sen",
+      "type": "Excess Purchase",
+      "contact": "amitabh.s@example.com"
+    },
+    "lifecycle": {
+      "status": "Pending_Verification",
+      "submissionDate": "2023-10-25T09:45:00Z",
+      "verifiedBy": null,
+      "verificationNotes": null
+    }
+  },
+  {
+    "donationId": "DON-1052",
+    "drugDetails": {
+      "brandName": "Asthalin Inhaler",
+      "genericName": "Salbutamol Inhaler CFC-Free",
+      "manufacturer": "Cipla",
+      "batchNumber": "AST-441",
+      "expiryDate": "2023-09-10",
+      "diseaseCategory": "Asthma"
+    },
+    "inventory": {
+      "quantity": 2,
+      "unitType": "Inhalers",
+      "estimatedRetailValueINR": 310
+    },
+    "condition": {
+      "packaging": "Unopened",
+      "storageEnvironment": "Room Temperature",
+      "isSealIntact": true
+    },
+    "donor": {
+      "name": "Global Care Hospital",
+      "type": "Hospital Inventory",
+      "contact": "pharmacy@globalcare.org"
+    },
+    "lifecycle": {
+      "status": "Rejected_Disposal",
+      "submissionDate": "2023-10-18T11:20:00Z",
+      "verifiedBy": "Pharm_Admin_02",
+      "verificationNotes": "Item is past expiry date. Routed to safe bio-medical waste disposal."
+    }
+  },
+  {
+    "donationId": "DON-1053",
+    "drugDetails": {
+      "brandName": "Calpol 650",
+      "genericName": "Paracetamol Tablets IP",
+      "manufacturer": "GSK",
+      "batchNumber": "CAL-9922",
+      "expiryDate": "2026-05-12",
+      "diseaseCategory": "Analgesic/Antipyretic"
+    },
+    "inventory": {
+      "quantity": 200,
+      "unitType": "Tablets",
+      "estimatedRetailValueINR": 380
+    },
+    "condition": {
+      "packaging": "Multiple Strips",
+      "storageEnvironment": "Room Temperature",
+      "isSealIntact": true
+    },
+    "donor": {
+      "name": "City Medical Store",
+      "type": "Pharmacy Overstock",
+      "contact": "inventory@citymeds.in"
+    },
+    "lifecycle": {
+      "status": "Dispatched",
+      "submissionDate": "2023-10-10T16:00:00Z",
+      "verifiedBy": "Pharm_Admin_01",
+      "verificationNotes": "Bulk overstock. Verified and mapped to NGO requisition REQ-303."
+    }
+  },
+  {
+    "donationId": "DON-1054",
+    "drugDetails": {
+      "brandName": "Ecosprin 75",
+      "genericName": "Aspirin Gastro-resistant",
+      "manufacturer": "USV Ltd",
+      "batchNumber": "ECO-1190",
+      "expiryDate": "2025-12-01",
+      "diseaseCategory": "Cardiac"
+    },
+    "inventory": {
+      "quantity": 28,
+      "unitType": "Tablets",
+      "estimatedRetailValueINR": 45
+    },
+    "condition": {
+      "packaging": "Partial Strip",
+      "storageEnvironment": "Humid/Compromised",
+      "isSealIntact": false
+    },
+    "donor": {
+      "name": "Rahul Verma",
+      "type": "Individual Patient",
+      "contact": "rahul.v@example.com"
+    },
+    "lifecycle": {
+      "status": "Rejected_Disposal",
+      "submissionDate": "2023-10-23T13:10:00Z",
+      "verifiedBy": "Pharm_Admin_02",
+      "verificationNotes": "Foil seal broken on remaining tablets. Moisture exposure suspected. Rejected for safety."
+    }
+  },
+  {
+    "donationId": "DON-1055",
+    "drugDetails": {
+      "brandName": "Thyrox 50mcg",
+      "genericName": "Thyroxine Sodium",
+      "manufacturer": "Macleods",
+      "batchNumber": "THY-7731",
+      "expiryDate": "2026-02-28",
+      "diseaseCategory": "Thyroid"
+    },
+    "inventory": {
+      "quantity": 120,
+      "unitType": "Tablets",
+      "estimatedRetailValueINR": 210
+    },
+    "condition": {
+      "packaging": "Glass Bottle",
+      "storageEnvironment": "Cool/Dark",
+      "isSealIntact": true
+    },
+    "donor": {
+      "name": "Anjali Desai",
+      "type": "Change in Prescription",
+      "contact": "anjali.d@example.com"
+    },
+    "lifecycle": {
+      "status": "Verified_Active",
+      "submissionDate": "2023-10-21T09:15:00Z",
+      "verifiedBy": "Pharm_Admin_01",
+      "verificationNotes": "Bottle seal intact. Expiry verified. Added to active stock."
+    }
+  }
+]
